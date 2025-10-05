@@ -82,4 +82,4 @@ Once detected, Peer:
 ---
 
 ## 🧱 System Architecture  
-
+<img width="303" height="608" alt="image" src="https://github.com/user-attachments/assets/69741a1c-42e6-48e9-a39f-f6fda2f7547c" />
