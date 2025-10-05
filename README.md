@@ -1,7 +1,5 @@
 # 🎓 Peer — AI-Powered Micro-Expression Analysis for Student Engagement  
 
-> “Bringing empathy back to online learning.”  
-
 ---
 
 ## 📖 Overview  
